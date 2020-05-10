@@ -1,0 +1,11 @@
+Projekt 10 
+Baza danych, która realizuje schemat systemu informatycznego obsługujący system wirtualnej uczelni.
+
+Student może mieć wiele klas, być na wielu kierunkach, mieć zapomogi/stypendia z więcej niż jednego kierunku,
+może mieć przypisany jeden akademik, lecz nie musi (allow nulls)
+
+Zarówno student, jak i nauczyciel mogą mieć wiele adresów.
+Złożenie pracy dyplomowej zawiera datę jej złożenia, datę obrony (nie ważne czy pozytywnej, czy nie) oraz datę obrony, zakończonej powodzeniem.
+
+Kurs może mieć wiele studentów, tak jak i student może mieć wiele kursów.
+Tak samo z nauczycielami i kursami.
